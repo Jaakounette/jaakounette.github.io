@@ -9,35 +9,22 @@
 }
 
 .bbody {
+  width: auto;
+  height: auto;
   background-color: #F2F2F2;
 
 }
 
-#lien {
+ul li {
   display: inline-block;
   padding: 40px;
-  color:#F2F2F2;
+  list-style-type: none;
+
 }
 
-
-#lien2 {
-  display: inline-block;
+ul li a {
+  font-size: 20px;
   color:#F2F2F2;
-}
-
-
-#lien3 {
-  display: inline-block;
-  color:#F2F2F2;
-}
-
-#lien4 {
-  display: inline-block;
-  color:#F2F2F2;
-}
-
-
-#lien5 {
-  display: inline-block;
-  color:#F2F2F2;
+  text-decoration: none;
+  padding-left: 180px;
 }
